@@ -9,6 +9,9 @@
 - <b>Data Analysis and Visualization (Power Bi , SQL , Excel)</b>
   - [Sales Insights (Power Bi , SQL)](https://github.com/BernardGomes7/Sales-Insights-Power-BI-SQL-)
   - [Road Accidents Analysis (Power Bi , Excel)](https://github.com/BernardGomes7/Road-Accidents-Power-Bi-)
+
+ - <b>Machine Learning</b>
+   - [Improving Employee Retention of Salifort Motors](https://github.com/BernardGomes7/Improving-Employee-Retention-of-Salifort-Motors)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
