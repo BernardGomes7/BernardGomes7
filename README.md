@@ -1,4 +1,6 @@
 <h1>Hi, I'm Bernard! <br/><a href="https://github.com/BernardGomes7">Data Analyst </a></h1>
+<h1> <a href="https://drive.google.com/file/d/1RiUXYQp2INObCED7XPt0gJDJvBEHwoYg/view?usp=sharing" > Resume </a></h1>
+
 
 <h2>👨‍💻 Machine Learning / Data Analytics Projects:</h2>
 
