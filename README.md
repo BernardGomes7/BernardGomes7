@@ -16,6 +16,7 @@
    - [Improving Employee Retention of Salifort Motors](https://github.com/BernardGomes7/Improving-Employee-Retention-of-Salifort-Motors)
    - [Predicting Hiring Decision Using Random Forest Classifier](https://github.com/BernardGomes7/Predicting-Hiring-Decisions)
    - [Predicting Hiring Decision Using XGBoost Classifier](https://github.com/BernardGomes7/Predicting-Hiring-Decisions/blob/main/predicting-hiring-decision-xgboost.ipynb)
+   - [Disease Prediction Using Machine Learning](https://github.com/BernardGomes7/Disease-Prediction-Using-Machine-Learning)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
