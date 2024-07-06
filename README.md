@@ -17,6 +17,7 @@
    - [Predicting Hiring Decision Using Random Forest Classifier](https://github.com/BernardGomes7/Predicting-Hiring-Decisions)
    - [Predicting Hiring Decision Using XGBoost Classifier](https://github.com/BernardGomes7/Predicting-Hiring-Decisions/blob/main/predicting-hiring-decision-xgboost.ipynb)
    - [Disease Prediction Using Machine Learning](https://github.com/BernardGomes7/Disease-Prediction-Using-Machine-Learning)
+   - [Flipkart Reviews Sentiment Analysis](https://github.com/BernardGomes7/Flipkart-Reviews-Sentiment-Analysis)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
